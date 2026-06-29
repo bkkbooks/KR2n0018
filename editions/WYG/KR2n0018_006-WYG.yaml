@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2n0018/WYG/v1/juan/6
+seq: 6
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2n0018_WYG_006-1a, image: WYG0681/WYG0681-0797a.png}
+body:
+  text: 隸續卷六宋洪适撰右武梁祠堂畫記自伏戲至於夏桀齊公至於秦王管仲至於李善及萊子母秋胡妻長婦兒後母子義漿羊公之類合七十六人其名氏磨滅與初無題識者又八十六人得之括蒼梁季珩始予聞建康寓客有此碑嘗託連帥方務徳訪之未至而書已成方亦刻郡齋地逺嵗久殆將亂真也右碑圖下卷范史趙岐傳云岐自為壽藏圖季札子産晏嬰叔向四像居賓位自畫其像居主位皆為讚頌以獻帝建安六年卒家在荆州古郢城中漢人圖畫于墟墓間見之史冊者如此水經所載則有魯恭李剛碑碣所傳則有朱浮武梁此卷雖具體而微可使家至而人皆見之畫繪之事莫古於此也魯恭即魯峻𨽻續卷六
+  hash: sha256:d27eeb10942e27bcf29b228aef4feaba51bc0a3b7c61c14f22399a772767714d
+metadata:
+  title: 隸續
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:54:24.101563'
+  juan_title: 卷六
+  source:
+    repository: kanripo
+    path: KR2n0018/KR2n0018_006.txt
+hash: sha256:19a275b063c76ac3527f9ff9d1bb63ded55ed0815feaa0650ae213bc9f1ab5f0

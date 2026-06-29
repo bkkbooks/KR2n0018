@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2n0018/krp/v1/juan/9
+seq: 9
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2n0018_WYG_009-1a, image: WYG0681/WYG0681-0814a.png}
+body:
+  text: 𨽻續卷九宋洪適撰闕𨽻續卷十
+  hash: sha256:5176f91174f3211011d95f229aa728ec023ed0afe04336695e6998bc1cbd5275
+metadata:
+  title: 隸續
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:54:24.101563'
+  juan_title: 卷九原闕
+  source:
+    repository: kanripo
+    path: KR2n0018/KR2n0018_009.txt
+hash: sha256:2efa541ce1e7e3dfc27de8567a185f2ebf397dc02ca9f6108c9ca816986ff5fd

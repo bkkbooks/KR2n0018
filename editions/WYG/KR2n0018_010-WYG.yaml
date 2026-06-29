@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2n0018/WYG/v1/juan/10
+seq: 10
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2n0018_WYG_010-1a, image: WYG0681/WYG0681-0814c.png}
+body:
+  text: 𨽻續卷十宋洪适撰闕𨽻續卷十
+  hash: sha256:08b447946e8c733cc6662b74e5c136d4849839c0ec69001bb924eb577f2b711a
+metadata:
+  title: 隸續
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:54:24.101563'
+  juan_title: 卷十原闕
+  source:
+    repository: kanripo
+    path: KR2n0018/KR2n0018_010.txt
+hash: sha256:789acdf37b9d6c3b1cf6faa097e8035506b5c772436a1846b7948eeee4b3d908
