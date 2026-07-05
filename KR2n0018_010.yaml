@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2n0018_WYG_010-1a, image: WYG0681/WYG0681-0814c.png}
 body:
-  text: 𨽻續卷十宋洪適撰闕𨽻續卷十
-  hash: sha256:e78eea298578c51d645ceeecd4b9d1763bb0b891042824fb83b0cf6aa159d9c8
+  text: 𨽻續卷十宋洪适撰闕𨽻續卷十
+  hash: sha256:08b447946e8c733cc6662b74e5c136d4849839c0ec69001bb924eb577f2b711a
 metadata:
   title: 隸續
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2n0018/KR2n0018_010.txt
-hash: sha256:09243af216b9b5cea97303d52a93052c201a63ac06cca906104bb2da746c3342
+hash: sha256:84d3eec732a9ff4d4a89384a5df66136c895dbfb0cf6dc6753df37c4ed7c262c
